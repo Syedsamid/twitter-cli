@@ -1,0 +1,23 @@
+{
+  "name": "twitter-cli",
+  "version": "1.0.0",
+  "description": "Twitter project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "nodejs es6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Syedsamid/twitter-cli.git"
+  },
+  "author": "syed samid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syedsamid/twitter-cli/issues"
+  },
+  "homepage": "https://github.com/Syedsamid/twitter-cli#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
